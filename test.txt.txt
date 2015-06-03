@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-DONT PULL
-=======
-Oh my god
-Yes, I can change this in the browser.
->>>>>>> origin/master
